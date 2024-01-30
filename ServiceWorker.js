@@ -1,9 +1,9 @@
-const cacheName = "kyo_zutomayo-IntroQuizTest-1.0";
+const cacheName = "kyo_zutomayo-IntroQuizTest-1.1";
 const contentToCache = [
-    "Build/03.loader.js",
-    "Build/03.framework.js.unityweb",
-    "Build/03.data.unityweb",
-    "Build/03.wasm.unityweb",
+    "Build/04.loader.js",
+    "Build/04.framework.js.unityweb",
+    "Build/04.data.unityweb",
+    "Build/04.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
